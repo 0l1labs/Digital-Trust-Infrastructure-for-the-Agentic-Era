@@ -1,138 +1,49 @@
 # Contributors
 
-Thank you to everyone who has contributed to 0L1 Labs! 🎉
-
----
+Thank you to everyone who has contributed to Nomad Trust Layer!
 
 ## Core Team
 
-### Founders
+**Founder & Lead Developer**
+* Aaron ([0L1 Labs](https://0l1labs.com))
 
-**Aaron** - Founder & CEO  
-*Web3 infrastructure, brand development, strategic partnerships*  
-- GitHub: [@your-github-username]
-- Twitter: [@your-twitter]
+## Community Contributors
 
-**[Technical Co-Founder]** - CTO *(Recruiting Q1 2026)*  
-*Circom/ZK cryptography, Base smart contracts, system architecture*
-
----
-
-## Contributors
-
-*This section will be updated as we receive contributions from the community!*
-
-### Code Contributors
-
-<!-- Contributors will be added here as they contribute -->
-
-### Documentation Contributors
-
-<!-- Documentation contributors will be added here -->
-
-### Security Researchers
-
-<!-- Security researchers will be credited here -->
+*This section will be updated as contributions are made.*
 
 ---
 
 ## How to Get Listed
 
-Made a contribution to 0L1 Labs? You'll be added to this list! 
+Contributions that warrant recognition include:
 
-Contributions include:
-- ✅ Code merged via Pull Request
-- ✅ Documentation improvements
-- ✅ Bug reports with detailed reproduction
-- ✅ Security vulnerability disclosures
-- ✅ Significant community contributions
+* **Code contributions** - Bug fixes, features, optimizations
+* **Documentation** - Improvements to docs, guides, examples
+* **Circuit development** - ZK circuit improvements or testing
+* **Smart contract development** - Contract improvements or auditing
+* **Testing** - Comprehensive test coverage or bug discovery
+* **Community support** - Helping others in Discord, GitHub, etc.
+* **Translations** - Translating documentation or interfaces
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to contribute.
+To be added to this list, your contribution should be merged into the main repository via pull request.
 
----
+See [Contributing.md](Contributing.md) for guidelines on how to contribute.
 
 ## Special Thanks
 
-### Inspiration & Foundation
+* **Semaphore Protocol Team** - For building the foundation we customize
+* **Privacy & Scaling Explorations (PSE)** - For pioneering ZK research
+* **Base Team** - For providing low-cost, high-throughput ZK verification infrastructure
+* **Trail of Bits, Veridise, PSE Security** - For auditing Semaphore Protocol
+* **Circom & SnarkJS Teams** - For ZK tooling
+* **Open source community** - For countless libraries and tools
 
-- **Semaphore Protocol Team** - For the audited ZK circuits we build upon
-- **Ethereum Foundation** - For the high-performance blockchain infrastructure
-- **Worldcoin** - For proving Semaphore at scale
-- **ZK Community** - For advancing zero-knowledge cryptography
+## Node Holders
 
-### Auditors & Security (Coming Q1 2026)
-
-- **Circuit Auditors:** [TBD]
-- **Smart Contract Auditors:** [TBD]
-- **Security Researchers:** [TBD]
+While not code contributors, Nomad Node holders are critical infrastructure partners who make this network possible. Thank you to the founding 1,000 node holders for believing in borderless verification.
 
 ---
 
-## Community Contributors
+**Want to contribute?** See [Contributing.md](Contributing.md) to get started!
 
-### Early Supporters
-
-**Genesis Layer Badge Holders** (December 2025)
-- The first 1,000 believers who funded development
-- Community builders and early adopters
-- Thank you for taking the leap! 🚀
-
-### Discord Community Moderators
-
-*Coming Q1 2026*
-
-### Translation Contributors
-
-*Coming as needed*
-
----
-
-## Advisory Board
-
-### Technical Advisors
-
-*To be announced*
-
-### Legal & Compliance Advisors
-
-*To be announced*
-
-### Business Advisors
-
-*To be announced*
-
----
-
-## Recognition
-
-All contributors are valued members of the 0L1 Labs community. Specific recognitions:
-
-### 🏆 Major Contributors
-*Contributors with 10+ merged PRs or significant feature additions*
-
-### 🌟 Security Champions
-*Responsible disclosure of security vulnerabilities*
-
-### 📚 Documentation Heroes
-*Comprehensive documentation improvements*
-
-### 🐛 Bug Hunters
-*Quality bug reports that led to fixes*
-
----
-
-## Future Rewards
-
-As 0L1 Labs grows, we plan to:
-- Launch contributor grants program
-- Provide early access to new features
-- Offer priority support
-- Consider token allocations for major contributors (subject to legal/regulatory approval)
-
----
-
-**Want to be listed here?** Check out [CONTRIBUTING.md](./CONTRIBUTING.md) to get started!
-
----
-
-**Last Updated:** December 2025
+*Built by [0L1 Labs](https://0l1labs.com)*
