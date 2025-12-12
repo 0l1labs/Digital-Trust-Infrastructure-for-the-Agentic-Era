@@ -2,48 +2,42 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in 0L1 Labs a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders of the Nomad Trust Layer community pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-### Examples of behavior that contributes to a positive environment:
+### Examples of Positive Behavior
 
-- **Being respectful** of differing opinions, viewpoints, and experiences
-- **Giving and gracefully accepting** constructive feedback
-- **Accepting responsibility** and apologizing to those affected by our mistakes
-- **Focusing on what is best** not just for us as individuals, but for the overall community
-- **Showing empathy** towards other community members
-- **Using welcoming and inclusive language**
+* Demonstrating empathy and kindness toward others
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing when we make mistakes
+* Focusing on what is best for the community
+* Using welcoming and inclusive language
+* Being supportive of newcomers and questions
 
-### Examples of unacceptable behavior:
+### Unacceptable Behavior
 
-- **Harassment** of any kind, including offensive comments related to personal characteristics
-- **Trolling, insulting/derogatory comments,** and personal or political attacks
-- **Public or private harassment**
-- **Publishing others' private information** without explicit permission
-- **Sexual attention or advances** of any kind
-- **Other conduct** which could reasonably be considered inappropriate in a professional setting
+* The use of sexualized language or imagery, and unwelcome sexual attention or advances
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information without explicit permission
+* Spamming or excessive self-promotion
+* Deliberate intimidation or stalking
+* Advocating for, or encouraging, any of the above behavior
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, including:
-
-- GitHub repositories (issues, pull requests, discussions)
-- Discord server
-- Twitter/social media interactions
-- Community events (online or in-person)
-- Email communications
-- Any other official 0L1 Labs channels
-
-It also applies when an individual is officially representing the community in public spaces.
+This Code of Conduct applies within all community spaces (GitHub, Discord, Twitter, Telegram, email, events) and also applies when an individual is officially representing the community in public spaces.
 
 ## Enforcement
 
@@ -51,31 +45,33 @@ It also applies when an individual is officially representing the community in p
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-**conduct@0l1labs.com**
+**team@nomadtrust.com**
 
-All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ### Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders will follow these guidelines in determining consequences:
 
 #### 1. Correction
 
-**Community Impact:** Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+**Community Impact:** Use of inappropriate language or other unprofessional behavior.
 
-**Consequence:** A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+**Consequence:** A private, written warning providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
 #### 2. Warning
 
 **Community Impact:** A violation through a single incident or series of actions.
 
-**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+**Consequence:** A warning with consequences for continued behavior. No interaction with the people involved for a specified period of time. This includes avoiding interactions in community spaces as well as external channels. Violating these terms may lead to a temporary or permanent ban.
 
 #### 3. Temporary Ban
 
 **Community Impact:** A serious violation of community standards, including sustained inappropriate behavior.
 
-**Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+**Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved is allowed during this period. Violating these terms may lead to a permanent ban.
 
 #### 4. Permanent Ban
 
@@ -85,7 +81,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
@@ -93,11 +89,10 @@ For answers to common questions about this code of conduct, see the FAQ at https
 
 ## Contact
 
-For questions or concerns about this Code of Conduct:
-
-- **Email:** info@0l1labs.com
-- **GitHub:** Open an issue (for non-sensitive matters)
+* **Code of Conduct violations:** team@nomadtrust.com
+* **General inquiries:** team@nomadtrust.com
+* **Website:** [nomadtrust.com](https://nomadtrust.com)
 
 ---
 
-**Last Updated:** December 2025
+*Built by [0L1 Labs](https://0l1labs.com)*
