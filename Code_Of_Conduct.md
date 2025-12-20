@@ -45,7 +45,7 @@ This Code of Conduct applies within all community spaces (GitHub, Discord, Twitt
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-**team@nomadtrust.com**
+**team@nomadtrust.io**
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -89,10 +89,6 @@ For answers to common questions about this code of conduct, see the FAQ at https
 
 ## Contact
 
-* **Code of Conduct violations:** team@nomadtrust.com
-* **General inquiries:** team@nomadtrust.com
-* **Website:** [nomadtrust.com](https://nomadtrust.com)
-
----
-
-*Built by [0L1 Labs](https://0l1labs.com)*
+* **Code of Conduct violations:** team@nomadtrust.io
+* **General inquiries:** team@nomadtrust.io
+* **Website:** [nomadtrust.io](https://nomadtrust.io)
